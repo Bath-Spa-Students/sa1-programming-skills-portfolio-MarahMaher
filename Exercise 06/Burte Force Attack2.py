@@ -16,4 +16,4 @@ while trys_left > 0:
 
     if trys_left == 0:
         #If no trys are left, inform the user that .
-        print("All attempts have been used. please try again later.")
+        print("The authorities have been alerted. please try again later.")
